@@ -32,5 +32,5 @@ project_root/
 - capture1.png: 2번 항목까지 commit을 완료한 후의 VS Code 화면
 - capture2.png: GitHub에 push하고, 다시 pull 한 후의 VS Code 화면
 
-## 4. GitHub RRepositore URL
+## 4. GitHub Repositore URL
 - URL: https://github.com/ujun9/uj_hw2.git
