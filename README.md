@@ -8,6 +8,7 @@
   - 코드 수정: `FIX: ...`  
 
 ## 2. 프로젝트 폴더 구조
+```
 project_root/
  ├─ src/
  │   └─ app.py
@@ -16,6 +17,7 @@ project_root/
  │       ├─ capture1.png
  │       └─ capture2.png
  └─ README.md
+```
 
 ## 3. 수행 과정
 1. src/app.py 작성 및 첫 commit
