@@ -32,7 +32,7 @@ project_root/
 - capture1.png: 2번 항목까지 commit을 완료한 후의 VS Code 화면
 - capture2.png: GitHub에 push하고, 다시 pull 한 후의 VS Code 화면
 
-![첫번째 캡처](doc/images/capture.png)
+![첫번째 캡처](doc/images/capture1.png)
 ![두번째 캡처](doc/images/capture2.png)
 
 ## 4. GitHub Repositore URL
